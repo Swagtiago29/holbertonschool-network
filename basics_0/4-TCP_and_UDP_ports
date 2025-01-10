@@ -1,3 +1,4 @@
 #!/bin/bash
-#displays ports with pid
+#displays ports
+
 netstat -l -p
