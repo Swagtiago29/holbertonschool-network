@@ -1,0 +1,3 @@
+#!/bin/bash
+#displays ports with pid
+ss -ltpn
