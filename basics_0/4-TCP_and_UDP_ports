@@ -1,4 +1,4 @@
 #!/bin/bash
-#displays ports
+# displays ports
 
 netstat -l -p
