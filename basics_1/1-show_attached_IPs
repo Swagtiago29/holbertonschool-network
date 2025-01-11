@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+# Show all active IPv4 IPs
+ifconfig | grep -oP 'inet \K\d+(\.\d+){3}'
