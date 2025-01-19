@@ -1,0 +1,43 @@
++-----------------------+
+| Type "https://www.    |
+| google.com" in the    |
+| address bar           |
++-----------------------+
+           |
+           v
++-----------------------+
+| DNS Lookup: Resolve   |
+| "www.google.com" to   |
+| an IP address         |
++-----------------------+
+           |
+           v
++-----------------------+
+| TCP Handshake:        |
+| Connect to Google’s   |
+| server                |
++-----------------------+
+           |
+           v
++-------------------------+
+| HTTPS: Secure connection|
+| with encryption         |
++-------------------------+
+           |
+           v
++-----------------------+
+| HTTP Request: Browser |
+| asks for Google’s page|
++-----------------------+
+           |
+           v
++-----------------------+
+| Server Response:      |
+| Google sends the data |
++-----------------------+
+           |
+           v
++-----------------------+
+| Rendering: Browser    |
+| displays the page     |
++-----------------------+

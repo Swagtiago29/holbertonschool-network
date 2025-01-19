@@ -1,0 +1,13 @@
+DNS Lookup: Your browser translates "www.google.com" into an IP address using a DNS server, so it knows where to send the request.
+
+TCP Connection: The browser establishes a connection with Google's server using the TCP/IP protocol, which involves a handshake between your browser and the server.
+
+HTTPS Encryption: Since you're using HTTPS, the browser and server create a secure, encrypted connection to protect your data.
+
+HTTP Request: Your browser sends a request to Google's server for the webpage, asking for the HTML, images, and other resources needed to display the page.
+
+Server Response: Google’s server sends back the requested data, including the HTML code and additional resources like images and scripts.
+
+Rendering: Your browser processes and renders the webpage, displaying it on your screen.
+
+Caching: Your browser may store some resources locally for faster loading on future visits.
